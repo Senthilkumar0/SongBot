@@ -6,7 +6,7 @@
 
 Open Source Bot 👨🏻‍💻
 
-Demo : [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/Song_ProBot)
+Demo : [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https://t.me/Song_ProBot)
 
 Easy To Deploy 🤗
 
@@ -17,7 +17,7 @@ Easy To Deploy 🤗
 3) Create An App On Heroku And Connect Heroku With Your Github Repository, 
 4) Manual Deploy To Your Repository. 
 ```
-# Reach Me On Telegram [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/Song_ProBot)
+# Reach Me On Telegram [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https://t.me/Song_ProBot)
 
 # Report Any Error or Help Contact :
 [Support ❤️](https://t.me/NobisukiSupport)
