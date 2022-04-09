@@ -6,8 +6,6 @@
 
 Open Source Bot 👨🏻‍💻
 
-Demo : [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https://t.me/Song_ProBot)
-
 Easy To Deploy 🤗
 
 ## 💡 Deploy This Bot To Heroku ❓️
